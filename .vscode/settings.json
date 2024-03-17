@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "d:\\lsp4j\\jar_files\\gson-2.10.1.jar",
+        "d:\\lsp4j\\jar_files\\org.eclipse.lsp4j.jsonrpc-0.22.0.jar",
+        "d:\\lsp4j\\jar_files\\org.eclipse.lsp4j-0.22.0.jar"
+    ]
+}
