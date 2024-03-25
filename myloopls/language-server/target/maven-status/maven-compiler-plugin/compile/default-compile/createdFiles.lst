@@ -1,0 +1,3 @@
+org\myloop\ls\langserver\MyloopTextDocumentService.class
+org\myloop\ls\langserver\MyloopWorkspaceService.class
+org\myloop\ls\langserver\MyloopLanguageServer.class
